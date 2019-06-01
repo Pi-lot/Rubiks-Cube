@@ -1,4 +1,8 @@
-﻿using System;
+﻿//MIT License
+
+//Copyright(c) 2019 Bryce Tuton
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
