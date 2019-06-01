@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 /// Class to represent a complete Rubik's cube
 /// </summary>
 namespace RubiksCube {
-    class Cube {
+    public class Cube {
         public const int Size = 3;
         public enum Colours { green, yellow, red, white, orange, blue };
         public enum PieceTypes { centre, edge, corner };

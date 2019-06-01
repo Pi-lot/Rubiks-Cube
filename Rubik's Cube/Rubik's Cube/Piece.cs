@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 /// Base class used for creating a piece within the cube
 /// </summary>
 namespace RubiksCube {
-    abstract class Piece {
+    public abstract class Piece {
         protected Cube.Positions[] position;
         protected Cube.PieceTypes pieceType;
         protected Cube.Colours[] colour;

@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 /// Class to represent the Edge piece of a Rubik's cube. Inherits Piece class
 /// </summary>
 namespace RubiksCube {
-    class Edge : Piece {
+    public class Edge : Piece {
         /// <summary>
         /// Contruct the Edge with given colours
         /// </summary>
