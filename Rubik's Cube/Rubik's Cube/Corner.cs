@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 /// <summary>
 /// Class that represents the Corner piece of the Rubik's cube
 /// </summary>
-namespace Rubik_s_Cube {
+namespace RubiksCube {
     class Corner : Piece {
         /// <summary>
         /// Constructor to create corner piece of specified colours

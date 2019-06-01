@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 /// <summary>
 /// Class to represent the Edge piece of a Rubik's cube. Inherits Piece class
 /// </summary>
-namespace Rubik_s_Cube {
+namespace RubiksCube {
     class Edge : Piece {
         /// <summary>
         /// Contruct the Edge with given colours

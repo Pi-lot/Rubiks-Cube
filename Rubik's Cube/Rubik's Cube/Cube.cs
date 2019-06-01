@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 /// <summary>
 /// Class to represent a complete Rubik's cube
 /// </summary>
-namespace Rubik_s_Cube {
+namespace RubiksCube {
     class Cube {
         public const int Size = 3;
         public enum Colours { green, yellow, red, white, orange, blue };

@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 /// <summary>
 /// Class that represents the Center piece of the Rubik's cube
 /// </summary>
-namespace Rubik_s_Cube {
+namespace RubiksCube {
     class Centre : Piece {
         public new Cube.Positions position;
         public new Cube.Colours colour;

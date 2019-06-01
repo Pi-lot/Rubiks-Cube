@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 /// <summary>
 /// Base class used for creating a piece within the cube
 /// </summary>
-namespace Rubik_s_Cube {
+namespace RubiksCube {
     abstract class Piece {
         protected Cube.Positions[] position;
         protected Cube.PieceTypes pieceType;
