@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubik's Cube", "Rubik's Cube\Rubik's Cube.csproj", "{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}.Debug|x64.ActiveCfg = Debug|x64
+		{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}.Debug|x64.Build.0 = Debug|x64
+		{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}.Debug|x86.ActiveCfg = Debug|x86
+		{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}.Debug|x86.Build.0 = Debug|x86
+		{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}.Release|x64.ActiveCfg = Release|x64
+		{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}.Release|x64.Build.0 = Release|x64
+		{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}.Release|x86.ActiveCfg = Release|x86
+		{CE4704FB-D2A9-4F7B-9BB2-3BE5A054820D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75B92E6E-F6BF-4727-9AE3-E8C9687E70AB}
+	EndGlobalSection
+EndGlobal
